@@ -53,6 +53,7 @@ cd DSA-Whisper ```
 pip install -r requirements.txt
 ```
 3.Set your Groq API key in secrets.toml or environment variables.
+
 4.Run the app:
 ```bash
 streamlit run app.py
