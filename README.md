@@ -30,8 +30,6 @@ The app provides clear explanations, Python code examples, practice questions, a
 ## 📁 Project Structure
 
 DSA-Whisper/
-
-│
 ├── app.py # Main Streamlit app
 
 ├── topics.json # JSON file containing DSA topics and examples
@@ -53,7 +51,7 @@ cd DSA-Whisper ```
 2.Install dependencies:
 ```bash
 pip install -r requirements.txt
-```
+
 3.Set your Groq API key in secrets.toml or environment variables.
 ```
 ```
