@@ -66,8 +66,9 @@ Integrate more AI-powered visualization for algorithms
 Add user authentication and save progress
 
 📫 Connect
+
 GitHub: Bano733-code
 
-LinkedIn: www.linkedin.com/in/bano-rani-228b76334
+LinkedIn: https://www.linkedin.com/in/bano-rani-228b76334/
 
 Made with ❤️ using Streamlit + Groq API
